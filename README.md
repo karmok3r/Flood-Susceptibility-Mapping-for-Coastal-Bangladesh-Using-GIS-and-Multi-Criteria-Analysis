@@ -1,0 +1,2 @@
+# Flood-Susceptibility-Mapping-for-Coastal-Bangladesh-Using-GIS-and-Multi-Criteria-Analysis
+Coastal Bangladesh is highly vulnerable to flooding due to cyclones, storm surges, tidal effects, low elevation, and sea-level rise. This project aims to develop a flood susceptibility map for a selected coastal district or upazila (for example, Khulna, Satkhira, Barguna, or Cox’s Bazar) by integrating topographic, hydrologic, and land-use 
